@@ -1,2 +1,2 @@
 # Bigdata
-#build a model to do the prediction about whether the plane will be delay.
+#build a model to do the analyze the influence about each of the factors
